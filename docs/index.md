@@ -5,7 +5,7 @@ title: Clara Broberg's Resume
 # Clara Broberg
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="cbroberg17@gmail.com">cbroberg17@gmail.com</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>
@@ -19,12 +19,8 @@ title: Clara Broberg's Resume
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - Bachelor of Science in Data Science	
-- GPA – 3.8
-
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
-
-- 4.0 Major GPA
+- 3.8 GPA
+- Thomas E. Ricks Scholarship Recipient (Sep 2019 - Present)
 
 
 ## Related Experience
