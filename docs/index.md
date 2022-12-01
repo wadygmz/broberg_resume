@@ -15,10 +15,11 @@ title: Clara Broberg's Resume
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2019-2023`
+__Brigham Young University - Idaho__, Rexburg, ID
 
-- Full academic scholarship with 4.0 GPA
+- Bachelor of Science in Data Science	
+- GPA – 3.8
 
 `Expected 2029`
 __Brigham Young University - Idaho__, Rexburg, ID
