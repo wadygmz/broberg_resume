@@ -6,9 +6,8 @@ title: Clara Broberg's Resume
 
 <div id="webaddress">
 <a href="cbroberg17@gmail.com">cbroberg17@gmail.com</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://www.linkedin.com/in/clara-broberg/">LinkedIn</a>
+| <a href="https://github.com/cbroberg17">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
@@ -23,59 +22,48 @@ __Brigham Young University - Idaho__, Rexburg, ID
 - Thomas E. Ricks Scholarship Recipient (Sep 2019 - Present)
 
 
-## Related Experience
+## Tools
 
-### Internships
+- R (tidyverse, ggplot)
+- Python (pandas, altair, numpy, sympy)
+- SQL
+- Microsoft Office
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+## Work Experience
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+`August 2022 - Current`
+__Brigham Young University - Idaho__, Business Solutions / Systems Assurance Analyst
 
-### Data Science Lead
+- Created and maintained reports, forms, and various data items in our software
+- Identified data discrepancies and errors and cleaned them to ensure accurate reporting in Power BI
+- Improved systems by simplifying processes through completing projects
+- Managed multiple projects at a time through successful time management 
+- Collaborated with others to gain insights and create unity between coworkers
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+## Projects
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+`July 2022`
+__Movie Ratings and Revenue Individaul Project__
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Wrangled data to create visualizations on movie review and revenue datasets
+- Created multiple visualizations to understand the data
+- Gained insights from visualizations that helped me reach conclusions on the relationships between movies and reviews
 
 
-## Service and Work History
+## Relevant CourseWork
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`Fall 2021`
+__Data Wrangling and Visualization__
+
+- Used data-driven programming in R for the handling, formatting, and visualization of messy and complex data
+- Developed confidence in and strategies for completing ambiguous requests
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+`Fall 2021`
+__Survey Object Oriented Programming and Data Structures__
 
+- Designed and wrote programs that correctly use object-oriented constructs to solve complex problems
+- Articulated the strengths and weaknesses of common data structures in various scenarios
 
 
 <!-- ### Footer
